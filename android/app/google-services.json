@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226500711737",
+    "project_id": "connectly-ccfd8",
+    "storage_bucket": "connectly-ccfd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226500711737:android:610d5ae2e9399078d144e8",
+        "android_client_info": {
+          "package_name": "com.ramya.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4QwAxkHIWpHSw49Te5lXS0HODC0nHcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCvgI2UteetmyHI-z1BM5XY4IHMQgLE__s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>226500711737</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ramya.chatapp.connectly</string>
+	<key>PROJECT_ID</key>
+	<string>connectly-ccfd8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>connectly-ccfd8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:226500711737:ios:b410298942ab8175d144e8</string>
+</dict>
+</plist>
